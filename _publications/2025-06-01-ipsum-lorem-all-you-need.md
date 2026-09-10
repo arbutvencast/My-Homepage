@@ -1,12 +1,14 @@
 ---
 title: "Ipsum Lorem is all you need"
 collection: publications
+category: conferences
 permalink: /publication/2025-06-01-ipsum-lorem-all-you-need
-excerpt: ''
+excerpt: 'This paper introduces a novel approach to simplifying LLM architectures, demonstrating that Ipsum Lorem techniques can achieve competitive performance with reduced computational costs.'
 date: 2025-06-01
-venue: 'COML 2025'
+venue: 'Accepted at COML 2025 - Conference on Machine Learning'
+slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
 paperurl: 'https://openreview.net/forum?id=example123'
-citation: 'Your Name, et al. "Ipsum Lorem is all you need." COML 2025.'
+bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
 award: 'Oral Presentation (top ~1% of submissions)'
-code: 'https://github.com/arbutvencast/ipsum-lorem-all-you-need'
+citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Accepted at COML 2025 - Conference on Machine Learning</i>.'
 ---
